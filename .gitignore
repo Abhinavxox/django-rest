@@ -1,5 +1,5 @@
 db.sqlite3
-venv
+myenv
 mpapp/__pycache__
 mpapp/migrations
 myproject/__pycache__
